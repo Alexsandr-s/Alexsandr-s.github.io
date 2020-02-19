@@ -1,34 +1,91 @@
-* {padding: 0;
-margin: 10;
-box-sizing: border-box;
+* {
+  padding: 0;
+  margin: 0;
+  background: #9a0909; 
 }
-.title {
-    text-align: center;
-    letter-spacing: 8px;
-    font-size: 10px;
-    margin-top: 50px;
-    margin-bottom: 50px
+.photos { 
+  margin: auto;
+  
 }
-.imgSunset {
-  text-align:center;
-  display:block; margin:15px auto 25px;
+.header__image {
+  display: block;
+  margin: auto;
+
 }
-.text_1 {
-  margin: 0 auto;
-  width: 760px;  
-}
-.img_cars {
+.nav {
   text-align: center;
+  background: #000000;
+  margin: 10px;
+
+}
+li.nav__img {
+  list-style-type: none;
+  display: inline-block;
+  margin: 50px 50px;
+  margin-top: 30px;
   margin-bottom: 10px;
+
 }
-.img_cars img {
-  width: 80px;
-  border: 3px dashed #000000;
+li.nav__img a {
+  display: block;
+  color: white;
+  background: #000000;
+
 }
+.main {
+  display: inline-block;
+  width: 20%;
+  background: #720808; 
+  vertical-align: top;
+  line-height: 2.5;
+  height: 500px;
+  margin: 10px;
+
+}
+.main a {
+  color: rgb(247, 126, 12);
+  display: block;
+  background: #720808; 
+
+}
+.container {
+  display: inline-block;
+  width: 58%;
+  vertical-align: top;
+
+ }
+.side {
+  display: inline-block;
+  width: 19%;
+  height: 500px;
+  background: #e9e3e1;
+  
+}
+.side p{
+  background: #e9e3e1;
+  
+}
+.side h2 {
+  display: block;
+  background-color: #d2c8c5;
+  text-align: center;
+  margin-top: 3px; 
+
+}
+.side hr {
+  border: none;
+  background-color: rgb(104, 104, 104);
+  height: 3px;
+  width: 50%;
+  margin: 0 25% 0 25%;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
 .footer {
   display: block;
-  background-color:black;
-  margin: 0 auto;
-  width: 760px;
-  text-align: center; color: #ffffff;
+  background-color: rgb(247, 126, 12);
+  text-align: center; 
+  color: #ffffff;
+  margin: 10px 10px 50px 50px;
 }
