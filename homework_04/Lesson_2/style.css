@@ -1,24 +1,21 @@
 * {
   padding: 0;
   margin: 0;
-  background: #9a0909; 
-}
-.photos { 
-  margin: auto; 
+  background: #9a0909;  
   
 }
 .header__image {
   display: block;
   margin: auto;
-
+ 
 }
-.nav {
+.block {
   text-align: center;
   background: #000000;
   margin: 10px;
 
 }
-li.nav__img {
+.img {
   list-style-type: none;
   display: inline-block;
   margin: 50px 50px;
@@ -26,13 +23,13 @@ li.nav__img {
   margin-bottom: 10px;
 
 }
-li.nav__img a {
+.link {
   display: block;
   color: white;
   background: #000000;
 
 }
-.main {
+main {
   display: inline-block;
   width: 20%;
   background: #720808; 
@@ -42,13 +39,14 @@ li.nav__img a {
   margin: 10px;
 
 }
-.main a {
+.link__main li a  {
+  list-style-type: none;
   color: rgb(247, 126, 12);
   display: block;
   background: #720808; 
 
 }
-.container {
+article {
   display: inline-block;
   width: 58%;
   vertical-align: top;
@@ -59,7 +57,9 @@ li.nav__img a {
   width: 19%;
   height: 500px;
   background: #e9e3e1;
-  
+  margin-top: 10px;
+
+
 }
 .side p{
   background: #e9e3e1;
@@ -69,7 +69,7 @@ li.nav__img a {
   display: block;
   background-color: #d2c8c5;
   text-align: center;
-  margin-top: 3px; 
+  margin-top: 5px; 
 
 }
 .side hr {
@@ -87,5 +87,5 @@ li.nav__img a {
   background-color: rgb(247, 126, 12);
   text-align: center; 
   color: #ffffff;
-  margin: 10px 10px 50px 50px;
+  margin: 10px 10px;
 }

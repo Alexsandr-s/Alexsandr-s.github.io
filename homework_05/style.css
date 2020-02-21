@@ -1,0 +1,55 @@
+
+.block {  
+  background-image: url(PICTURE.png);
+  width: 1920px;
+  height: 420px;
+  margin: auto;
+}
+
+.header {
+  margin: auto 900px;
+  padding-top: 120px;
+ 
+}
+.title {
+  margin: auto 880px;
+  padding-top: 51px;
+  color: #ffffff;
+  font-family: "Open Sans";
+  font-size: 20px;
+  font-weight: 400;
+
+}
+.line {
+  width: 230px;
+  height: 1px;
+  background-color: #ffffff;
+  margin-top: 20px ;
+}
+
+.main {
+  margin: auto 813px;
+
+}
+.main li  {
+  list-style-type: none;
+  float: left;
+  padding: 8px 20px; 
+}
+
+.footer  {
+  padding: 8px 20px;
+  text-align: center
+}
+
+.footer p {
+  color: #f3f3f9;
+  font-size: 15px;
+
+}
+.footer__li {
+  text-decoration: none;
+  color: rgb(5, 205, 255);
+}
+
+
