@@ -18,7 +18,7 @@
     * [lesson 2](https://Alexsandr-s.github.io/homework_07/index.html)
 * homework 8
     * [lesson 1](https://Alexsandr-s.github.io/homework_08/index.html)
-    * [lesson 2]
+    * lesson 2
  
  
  
