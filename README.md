@@ -11,8 +11,8 @@
     * [lesson 2](https://Alexsandr-s.github.io/homework_04/Lesson_2/index.html)
 * [homework 5](https://Alexsandr-s.github.io/homework_05/index.html)
 * homework 6
-    * [lesson 1](https://Alexsandr-s.github.io/homework_06/lesson_1/index.html)
-    * [lesson 2](https://Alexsandr-s.github.io/homework_06/lesson_2/index.html)
+    * [lesson 1](https://Alexsandr-s.github.io/homework_06/Lesson_1/index.html)
+    * [lesson 2](https://Alexsandr-s.github.io/homework_06/Lesson_2/index.html)
 * homework 7
     * lesson 1
     * [lesson 2](https://Alexsandr-s.github.io/homework_07/index.html)
