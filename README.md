@@ -19,6 +19,12 @@
 * homework 8
     * [lesson 1](https://Alexsandr-s.github.io/homework_08/index.html)
     * lesson 2
+ * homework 10
+    * [lesson 1](https://Alexsandr-s.github.io/homework_10/lesson_1/index.html)
+ * homework 12
+    * [lesson 1](https://Alexsandr-s.github.io/homework_12/lesson_1/index.html)
+    
+  
  
  
  
