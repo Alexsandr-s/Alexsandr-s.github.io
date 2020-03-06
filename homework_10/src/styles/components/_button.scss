@@ -1,0 +1,19 @@
+.button {
+    font-size:  $button-fs;
+    font-weight: 300;
+   background-color: $btn-color;
+   height: 52px;
+   width: 200px;
+   color: $white;
+   text-align: center;
+   line-height: 50px;
+   text-decoration: none;
+   
+}
+.button:hover {
+    background-color: rgb( 75, 183, 141 );
+}
+
+.button:active {
+    background-color: $btn-color;
+}

@@ -1,0 +1,43 @@
+.form__wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 370px;
+}
+.form__input {
+  border: none;
+  background-color: $form-color;
+  height: 41px;
+  width: 500px;
+  opacity: 0.5;
+  color: $white;
+  
+  }
+  .form-message {
+    height: 150px;
+  }
+ 
+  .form__input:focus {
+    opacity: 1.5;
+  }
+  input::-webkit-input-placeholder {
+    color: $white;
+  }
+  input {
+    outline: none;
+  }
+  .form__button {
+    background-color: $form-color;
+    width: 50%;
+    height: 50px; 
+    opacity: 0.5;
+    
+  }
+  .form__button:hover {
+    opacity: 1;
+color: $white;
+  }
+  .form__button:active {
+    background-color: red;
+    
+  }
