@@ -23,7 +23,7 @@
     * [lesson 1](https://Alexsandr-s.github.io/homework_10/build/index.html)
  * homework 12
     * [lesson 1](https://Alexsandr-s.github.io/homework_12/build/index.html)
- * [homework 13](https://Alexsandr-s.github.io/homework_13/build/index.html)
+ * [homework 13](https://Alexsandr-s.github.io/homework_13/lesson_1/build/index.html)
   
  
  
