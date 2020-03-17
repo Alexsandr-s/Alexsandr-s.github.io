@@ -20,9 +20,9 @@
     * [lesson 1](https://Alexsandr-s.github.io/homework_08/index.html)
     * lesson 2
  * homework 10
-    * [lesson 1](https://Alexsandr-s.github.io/homework_10/index.html)
+    * [lesson 1](https://Alexsandr-s.github.io/homework_10/build/index.html)
  * homework 12
-    * [lesson 1](https://Alexsandr-s.github.io/homework_12/index.html)
+    * [lesson 1](https://Alexsandr-s.github.io/homework_12/build/index.html)
     
   
  
